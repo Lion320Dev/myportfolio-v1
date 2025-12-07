@@ -35,7 +35,7 @@ export default function RootLayout({ children }) {
             <DemoModal />
             {/* <DemoModalToggler /> */}
             <Sidebar />
-            <Chat />
+            {/* <Chat /> */}
           </div>
           <ScrollTop />
           <ToastContainer

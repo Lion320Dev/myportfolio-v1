@@ -15,7 +15,7 @@ export default function Header1({ navItems = navItemsDefault }) {
           <div className="row">
             <div className="col-lg-12">
               <div className="header-content">
-                <div className="logo">
+                {/* <div className="logo">
                   <Link href={`/`}>
                     <Image
                       className="logo-dark"
@@ -32,7 +32,7 @@ export default function Header1({ navItems = navItemsDefault }) {
                       height={30}
                     />
                   </Link>
-                </div>
+                </div> */}
                 <div className="tmp-mainmenu-nav d-none d-xl-block">
                   <nav className="navbar-example2 onepagenav">
                     <ul className="tmp-mainmenu nav nav-pills">
@@ -41,7 +41,7 @@ export default function Header1({ navItems = navItemsDefault }) {
                   </nav>
                 </div>
                 <div className="tmp-header-right">
-                  <div className="social-share-wrapper d-none d-md-block">
+                  {/* <div className="social-share-wrapper d-none d-md-block">
                     <div className="social-link">
                       <a href="#">
                         <i className="fa-brands fa-instagram" />
@@ -56,7 +56,7 @@ export default function Header1({ navItems = navItemsDefault }) {
                         <i className="fa-brands fa-facebook-f" />
                       </a>
                     </div>
-                  </div>
+                  </div> */}
                   <div className="tmp-side-collups-area d-block d-xl-none">
                     <button
                       className="hamberger-menu humberger_menu_active"

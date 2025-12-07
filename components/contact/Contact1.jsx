@@ -63,6 +63,15 @@ export default function Contact1({ parentClass = "get-in-touch-area" }) {
                       <a href="#">+381629206050</a>
                     </div>
                   </li>
+                  <li className="tmp-scroll-trigger tmp-fade-in animation-order-3 tmp-link-animation">
+                    <span className="ft-icon">
+                      <i className="fa-solid fa-location-dot" />
+                    </span>
+                    <div className="ft-link-wrap">
+                      <h4 className="link-title">Telegram:</h4>
+                      <a href="#">@code_nomad124</a>
+                    </div>
+                  </li>
                 </ul>
               </div>
             </div>

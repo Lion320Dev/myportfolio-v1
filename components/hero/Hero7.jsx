@@ -34,7 +34,7 @@ export default function Hero7() {
                 and skills that highlights your abilities and professional
                 growth. It serves as
               </p>
-              <div className="skill-social-wrapper">
+              {/* <div className="skill-social-wrapper">
                 <div className="find-me-on">
                   <h2 className="find-me-on-title">Find me on</h2>
                   <div className="social-link banner">
@@ -93,7 +93,7 @@ export default function Hero7() {
                     </a>
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
           <div className="col-lg-4">

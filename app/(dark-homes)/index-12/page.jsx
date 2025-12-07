@@ -30,11 +30,11 @@ export default function page() {
         <Facts1 />
         <Skills1 />
         <Portfolio1 />
-        <Pricing1 />
+        {/* <Pricing1 /> */}
         <Contact1 />
         {/* <Blogs1 /> */}
         {/* <Footer1 /> */}
-        <IntroVideo />
+        {/* <IntroVideo /> */}
       </div>
     </>
   );
