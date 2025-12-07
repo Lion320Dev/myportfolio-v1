@@ -51,7 +51,7 @@ export default function PortfolioModal() {
                   <p>
                     And 2 telegram bots are integrated. Buy/sell bot and watching launch bot.
                   </p>
-                  <div className="button-group button-group-pd mt--20">
+                  {/* <div className="button-group button-group-pd mt--20">
                     <a
                       className="tmp-btn hover-icon-reverse btn-border tmp-modern-button radius-round download-icon"
                       href="#"
@@ -110,7 +110,7 @@ export default function PortfolioModal() {
                         </span>
                       </div>
                     </a>
-                  </div>
+                  </div> */}
                 </div>
                 {/* End of .text-content */}
               </div>

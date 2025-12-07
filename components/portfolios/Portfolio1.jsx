@@ -109,7 +109,7 @@ export default function Portfolio1({
                             </ul>
                           </div>
                         </div>
-                        <a
+                        {/* <a
                           className="tmp-btn hover-icon-reverse btn-border tmp-modern-button radius-round download-icon btn-md"
                           href="#"
                         >
@@ -137,7 +137,7 @@ export default function Portfolio1({
                               <i className="fa-sharp fa-regular fa-arrow-right" />
                             </span>
                           </div>
-                        </a>
+                        </a> */}
                       </div>
                       <div className="tmp-light light-center" />
                     </div>
